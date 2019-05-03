@@ -1,0 +1,15 @@
+Congratulations! You have now fired up your own node, 
+and are at liberty to explore the distributed file sharing system.
+Please ensure that you press enter at the end of your command. 
+
+
+
+1. To add to your balance, please type "add balance: amount"
+
+2. To add to your storage, please type "add storage: amount"
+
+3. To upload file, please type "upload filepath/filename reward: amount"
+
+4. To get file, please type "get file: merkleRoot reward: amount"
+
+5. To exit, please type "exit"
