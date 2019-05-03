@@ -397,7 +397,7 @@ def handle_input():
     """
     #userNode.fund(1000)
     #userNode.add_storage(100000)
-    manuel = read_data("userManuel.txt")
+    manuel = read_data("userManual.txt")
     cur_input = ""
     print(manuel)
     while True: 
