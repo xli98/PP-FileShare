@@ -5,7 +5,7 @@ PP-FileShare is a distributed file sharing system that a small group of computer
 
 ## Getting Started
 ### Paper
-Complement with the implementation, we also wrote a paper where you can read [here](https://github.com/xli98/PP-FileShare/blob/master/paper.pdf). The paper explains many components within our implementation and why we adopt these policies and implementations. 
+Complement with the implementation, we also wrote a paper where you can read [here](https://github.com/xli98/PP-FileShare/blob/master/PP_FileShare.pdf). The paper explains many components within our implementation and why we adopt these policies and implementations. 
 
 ### Prerequisites
 We implemented this system using [Python 3](https://www.python.org/downloads/). Each node in the system is simulated as an AWS EC2 [instance](https://aws.amazon.com/ec2/) communicating through TCP connections.
